@@ -1,0 +1,143 @@
+export const Users = [
+  {
+    id: 1,
+    profilePicture: "person/manImg1.jpg",
+    username: "Joy Smith",
+  },
+  {
+    id: 2,
+    profilePicture: "person/manImg2.jpg",
+    username: "Kammy Brandon",
+  },
+  {
+    id: 3,
+    profilePicture: "person/manImg3.jpg",
+    username: "Mike Jason",
+  },
+  {
+    id: 4,
+    profilePicture: "person/manImg4.jpg",
+    username: "Ricky Ponting",
+  },
+  {
+    id: 5,
+    profilePicture: "person/manImg5.jpg",
+    username: "Daid Brey",
+  },
+  {
+    id: 6,
+    profilePicture: "person/personImg1.jpg",
+    username: "Smith Jonsan",
+  },
+  {
+    id: 7,
+    profilePicture: "person/manImg2.jpg",
+    username: "Brandon Maklam",
+  },
+  {
+    id: 8,
+    profilePicture: "person/girlImg1.jpg",
+    username: "Lazzy Show",
+  },
+  {
+    id: 9,
+    profilePicture: "person/girlImg2.jpg",
+    username: "Simmy Lee",
+  },
+  {
+    id: 10,
+    profilePicture: "person/girlImg3.jpg",
+    username: "Kimmy Roy",
+  },
+  {
+    id: 11,
+    profilePicture: "person/girlImg4.jpg",
+    username: "Pamela Anderson",
+  },
+  {
+    id: 12,
+    profilePicture: "person/girlImg5.jpg",
+    username: "Serena Roy",
+  },
+  {
+    id: 13,
+    profilePicture: "person/girlImg6.jpg",
+    username: "Semny gosh",
+  },
+  {
+    id: 14,
+    profilePicture: "person/girlImg7.jpg",
+    username: "Merry Brey",
+  },
+  {
+    id: 15,
+    profilePicture: "person/girlImg8.jpg",
+    username: "Kelsy Smith",
+  },
+];
+
+export const Posts = [
+  {
+    id: 1,
+    desc: "Love For all, hatred for None",
+    photo: "post/postImg1.jpg",
+    date: "5 mins ago",
+    userId: 1,
+    like: 32,
+    comment: 9,
+  },
+  {
+    id: 2,
+    desc: "Sun is shine to every one",
+    photo: "post/postImg2.jpg",
+    date: "10 mins ago",
+    userId: 12,
+    like: 2,
+    comment: 1,
+  },
+  {
+    id: 3,
+    desc: "The Moon is so big.",
+    photo: "post/postImg3.jpg",
+    date: "12 mins ago",
+    userId: 3,
+    like: 3,
+    comment: 7,
+  },
+  {
+    id: 4,
+    desc: "Love For all human",
+    photo: "post/postImg4.jpg",
+    date: "13 mins ago",
+    userId: 4,
+    like: 42,
+    comment: 6,
+  },
+  {
+    id: 5,
+    desc: "The cat is sweet",
+    photo: "post/postImg5.jpg",
+    date: "14 mins ago",
+    userId: 5,
+    like: 52,
+    comment: 5,
+  },
+  {
+    id: 6,
+    desc: "May be do somthing for this",
+    photo: "post/postImg6.jpg",
+    date: "15 mins ago",
+    userId: 15,
+    like: 12,
+    comment: 2,
+  },
+  {
+    id: 7,
+    desc: "Please look at this it's a serious matter",
+    photo: "post/postImg7.jpg",
+    date: "20 mins ago",
+    userId: 11,
+    like: 22,
+    comment: 4,
+  },
+];
